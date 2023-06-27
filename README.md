@@ -1,5 +1,5 @@
 # ahsi_thesis_zebndvi
-`zebndvi` is a package created for my thesis "Understanding the Differences in How Grevy's and Plains Zebras Interact with Cattle." This thesis was written for the Department of Ecology and Evolutionary Biology at Princeton University under the advising of Professor Daniel Rubenstein. This package may be applicable for anyone working on the Cattle-Zebra Project at Mpala Research Centre.
+`zebndvi` is a package created for my thesis "Understanding the Differences in How Grevy's and Plains Zebras Interact with Cattle." This thesis was written for the Department of Ecology and Evolutionary Biology at Princeton University under the advising of Professor Daniel Rubenstein. This package may be helpful for those working on the Cattle-Zebra Project at Mpala Research Centre.
 
 * `water_dist_UTM` calculates the distance between zebra sightings and the nearest water or drinking point.
 * `ndvi_match` takes specified dated locations and finds the NDVI value from a geoTIFF that matches the date and location as closely as possible.
